@@ -1,6 +1,6 @@
 # Image Clicker
 
-Android app that automatically finds and clicks images on screen.
+Android app that automatically finds and click on image.
 
 ## Features
 - Select any image from gallery
