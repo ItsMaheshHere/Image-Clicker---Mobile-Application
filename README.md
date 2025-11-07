@@ -3,7 +3,9 @@
 Android app that automatically finds and click on image.
 
 ## Features
+- take screenshot and crop
 - Select any image from gallery
+- image can be a button
 - Automatically finds the image on screen using OpenCV
 - System-wide auto-clicking using Accessibility Service
 - Works across all apps
