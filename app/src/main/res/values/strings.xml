@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image Clicker</string>
+    <string name="accessibility_service_description">Allows app to click on screen when image is found</string>
+</resources>
